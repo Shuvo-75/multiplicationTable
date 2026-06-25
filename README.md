@@ -20,5 +20,5 @@ A standard C++ compiler (such as GCC or Clang) must be installed on your local m
 ### Installation
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/cli-multiplier.git](https://github.com/YOUR_USERNAME/cli-multiplier.git)
-   cd cli-multiplier
+   git clone [https://github.com/Shuvo-75/multiplicationTable.git](https://github.com/Shuvo-75/multiplicationTable.git)
+   cd multiplicationTable
