@@ -22,3 +22,8 @@ A standard C++ compiler (such as GCC or Clang) must be installed on your local m
    ```bash
    git clone [https://github.com/Shuvo-75/multiplicationTable.git](https://github.com/Shuvo-75/multiplicationTable.git)
    cd multiplicationTable
+
+2. Compile the source code:
+
+```bash
+g++ main.cpp -o multiplier
